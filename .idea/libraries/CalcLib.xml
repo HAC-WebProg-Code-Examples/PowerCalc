@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CalcLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CalcLib/out/artifacts/CalcLib_jar/CalcLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
